@@ -1,0 +1,3 @@
+Para startar o json
+
+npx json-server pessoas.json
